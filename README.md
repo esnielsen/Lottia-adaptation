@@ -1,1 +1,1 @@
-# Lottia-range-expansion
+# Lottia-adaptation
